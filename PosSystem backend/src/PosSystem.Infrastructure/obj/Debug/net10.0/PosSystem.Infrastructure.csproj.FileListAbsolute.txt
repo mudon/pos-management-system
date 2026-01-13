@@ -1,0 +1,38 @@
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.deps.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.runtimeconfig.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Application.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Domain.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Domain.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Application.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.csproj.AssemblyReference.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.AssemblyInfoInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.AssemblyInfo.cs
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSyste.8BF8D6B4.Up2Date
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/refint/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.genruntimeconfig.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.Infrastructure/obj/Debug/net10.0/ref/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.deps.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.runtimeconfig.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Infrastructure.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Application.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Domain.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Domain.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/bin/Debug/net10.0/PosSystem.Application.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.csproj.AssemblyReference.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.AssemblyInfoInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.AssemblyInfo.cs
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSyste.8BF8D6B4.Up2Date
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/refint/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/PosSystem.Infrastructure.genruntimeconfig.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.Infrastructure/obj/Debug/net10.0/ref/PosSystem.Infrastructure.dll

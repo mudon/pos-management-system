@@ -1,0 +1,390 @@
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/appsettings.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.staticwebassets.endpoints.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.deps.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.runtimeconfig.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BCrypt.Net-Next.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Npgsql.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Application.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Domain.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Application.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Infrastructure.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Domain.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.csproj.AssemblyReference.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.AssemblyInfoInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.AssemblyInfo.cs
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.csproj.CoreCompileInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.MvcApplicationPartsAssemblyInfo.cs
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.MvcApplicationPartsAssemblyInfo.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/scopedcss/bundle/PosSystem.API.styles.css
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.build.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.development.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/swae.build.ex.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSyste.D4BDE50E.Up2Date
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/refint/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.genruntimeconfig.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/obj/Debug/net10.0/ref/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.Build.Locator.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.IO.Redist.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Newtonsoft.Json.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Buffers.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Collections.Immutable.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.CommandLine.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Memory.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Numerics.Vectors.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Runtime.CompilerServices.Unsafe.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Threading.Tasks.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/cs/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/de/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/es/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/fr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/it/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/ja/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/ko/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/pl/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/pt-BR/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/ru/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/tr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/zh-Hans/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/zh-Hant/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.Build.Locator.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Newtonsoft.Json.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/System.Collections.Immutable.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/System.CommandLine.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/cs/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/de/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/es/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/fr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/it/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/ja/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/ko/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/pl/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/pt-BR/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/ru/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/tr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/zh-Hans/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/zh-Hant/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Humanizer.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.Tasks.Core.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.Utilities.Core.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Microsoft.NET.StringTools.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.CodeDom.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Formats.Nrbf.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Reflection.MetadataLoadContext.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Resources.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Security.Permissions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/System.Windows.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem/src/PosSystem.API/bin/Debug/net10.0/runtimes/win/lib/net9.0/System.Windows.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.Build.Locator.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.IO.Redist.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/Newtonsoft.Json.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Buffers.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Collections.Immutable.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.CommandLine.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Memory.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Numerics.Vectors.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Runtime.CompilerServices.Unsafe.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/System.Threading.Tasks.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/cs/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/de/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/es/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/fr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/it/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/ja/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/ko/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/pl/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/pt-BR/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/ru/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/tr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/zh-Hans/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-net472/zh-Hant/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.Build.Locator.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/Newtonsoft.Json.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/System.Collections.Immutable.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/System.CommandLine.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/cs/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/de/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/es/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/fr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/it/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/ja/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/ko/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/pl/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/pt-BR/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/ru/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/tr/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/zh-Hans/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BuildHost-netcore/zh-Hant/System.CommandLine.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/appsettings.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.staticwebassets.endpoints.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.deps.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.runtimeconfig.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.API.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/BCrypt.Net-Next.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Humanizer.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.Tasks.Core.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Build.Utilities.Core.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.NET.StringTools.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Npgsql.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.CodeDom.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Formats.Nrbf.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Reflection.MetadataLoadContext.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Resources.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Security.Permissions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/System.Windows.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/runtimes/win/lib/net9.0/System.Windows.Extensions.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Application.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Domain.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Infrastructure.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Application.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Infrastructure.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/bin/Debug/net10.0/PosSystem.Domain.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.csproj.AssemblyReference.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.AssemblyInfoInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.AssemblyInfo.cs
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.csproj.CoreCompileInputs.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.MvcApplicationPartsAssemblyInfo.cs
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.MvcApplicationPartsAssemblyInfo.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/scopedcss/bundle/PosSystem.API.styles.css
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.build.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.development.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/swae.build.ex.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSyste.D4BDE50E.Up2Date
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/refint/PosSystem.API.dll
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.pdb
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/PosSystem.API.genruntimeconfig.cache
+/home/iot-2/Desktop/hazim/myproject/Pos System/PosSystem backend/src/PosSystem.API/obj/Debug/net10.0/ref/PosSystem.API.dll
